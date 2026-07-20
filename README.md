@@ -4,9 +4,9 @@ A real-time music visualizer running on a Raspberry Pi and a 64×64 HUB75 RGB LE
 
 The program captures microphone input, applies a Fast Fourier Transform (FFT), groups the resulting frequencies into logarithmically spaced bands, and renders animated rainbow bars that react to the music.
 
-**[Watch the demo video](https://drive.google.com/file/d/1t191fsDHJIpErmzPbE6yGSkyN_oB7htx/edit)**
+**[Watch the demo video](https://drive.google.com/file/d/1sgcacRdEHoPuVIjXh2psHcz8PbIVZDZN/edit)**
 
-![Raspberry Pi connected to the RGB matrix](docs/rgb-matrix-wiring.jpeg)
+![Raspberry Pi connected to the RGB matrix](docs/rgb-matrix-display.jpeg)
 
 ## Features
 
